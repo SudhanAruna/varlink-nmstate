@@ -1,0 +1,4 @@
+interface io.nmstate
+
+method Set(state: object) -> (state: object)
+method Get() -> (state: object)
